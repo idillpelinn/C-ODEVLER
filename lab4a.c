@@ -1,5 +1,5 @@
-/* 1’den ba¸slayarak kullanıcı tarafından girilen n sayısına kadar olan tamsayıları toplayarak, toplamı ekrana yazdıran programı while d¨ong¨u yapısını
-kullanarak geli¸stiriniz.*/
+/* 1â€™den baÂ¸slayarak kullanÃ½cÃ½ tarafÃ½ndan girilen n sayÃ½sÃ½na kadar olan tamsayÃ½larÃ½ toplayarak, toplamÃ½ ekrana yazdÃ½ran programÃ½ while dÂ¨ongÂ¨u yapÃ½sÃ½nÃ½
+kullanarak geliÂ¸stiriniz.*/
 #include<stdio.h>
 int main()
 {
