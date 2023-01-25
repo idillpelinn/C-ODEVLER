@@ -1,4 +1,4 @@
-//Ekrana Hello world! yazdýran bir program yazýn.
+//Ekrana Hello world! yazdÃ½ran bir program yazÃ½n.
 #include<stdio.h>
 int main() {
 printf("Hello world!");
