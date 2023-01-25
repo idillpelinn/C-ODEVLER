@@ -1,4 +1,4 @@
-//dizinin içeriklerini toplama
+//dizinin iÃ§eriklerini toplama
 #include<stdio.h>
 #include<stdlib.h>
 #define SIZE 12
