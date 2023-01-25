@@ -1,5 +1,5 @@
-/* Kullanıcı tarafından girilen bir sayının fakt¨oriyel de^gerini hesaplayarak
-sonucu ekrana yazdıran programı for d¨ong¨u yapısını kullanarak geli¸stiriniz.*/
+/* KullanÄ±cÄ± tarafÄ±ndan girilen bir sayÄ±nÄ±n faktÂ¨oriyel de^gerini hesaplayarak
+sonucu ekrana yazdÄ±ran programÄ± for dÂ¨ongÂ¨u yapÄ±sÄ±nÄ± kullanarak geliÂ¸stiriniz.*/
 #include<stdio.h>
 int main()
 {
