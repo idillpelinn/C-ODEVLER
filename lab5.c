@@ -1,5 +1,5 @@
-/*Bu fonksiyonu kullanarak 1-100 arasındaki b¨ut¨un asal sayıları bulan
-bir program yazınız.*/
+/*Bu fonksiyonu kullanarak 1-100 arasÃ½ndaki bÂ¨utÂ¨un asal sayÃ½larÃ½ bulan
+bir program yazÃ½nÃ½z.*/
 #include<stdio.h>
 int main()
 {
