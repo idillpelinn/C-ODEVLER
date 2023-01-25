@@ -1,6 +1,6 @@
-/*2. Pamukkale Universitesinde kullanılan ba¸sarı puanlarını harf notuna d¨on¨u¸st¨urme ¨
-tablosu a¸sa^gıda verilmi¸stir. Kullanıcı tarafından girilen puana kar¸sılık
-d¨u¸sen harf notunu if-else yapısını kullanarak ekrana yazdırınız.*/
+/*2. Pamukkale Universitesinde kullanÄ±lan baÂ¸sarÄ± puanlarÄ±nÄ± harf notuna dÂ¨onÂ¨uÂ¸stÂ¨urme Â¨
+tablosu aÂ¸sa^gÄ±da verilmiÂ¸stir. KullanÄ±cÄ± tarafÄ±ndan girilen puana karÂ¸sÄ±lÄ±k
+dÂ¨uÂ¸sen harf notunu if-else yapÄ±sÄ±nÄ± kullanarak ekrana yazdÄ±rÄ±nÄ±z.*/
 #include<stdio.h>
 int main()
 {
