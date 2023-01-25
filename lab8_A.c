@@ -1,5 +1,5 @@
-/*1. Tam sayı elemanlarından olu¸san a¸sa^gıdaki diziyi bubblesort kullanarak
-b¨uy¨ukten k¨u¸c¨u^ge sıralayınız.
+/*1. Tam sayÃ½ elemanlarÃ½ndan oluÂ¸san aÂ¸sa^gÃ½daki diziyi bubblesort kullanarak
+bÂ¨uyÂ¨ukten kÂ¨uÂ¸cÂ¨u^ge sÃ½ralayÃ½nÃ½z.
 int a[ SIZE ] = { 2, 6, 4, 8, 10, 12, 89, 68, 45, 37 };*/
 #include<stdio.h>
 #define SIZE
