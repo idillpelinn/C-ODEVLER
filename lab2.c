@@ -1,4 +1,4 @@
-// 3 tamsayının ¸carpımını hesaplayan programın kendisini yazınız.
+// 3 tamsayÃ½nÃ½n Â¸carpÃ½mÃ½nÃ½ hesaplayan programÃ½n kendisini yazÃ½nÃ½z.
 #include<stdio.h>
 int main()
 {
